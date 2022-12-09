@@ -44,6 +44,3 @@ function addStickyToPage(stickyObject) {
   sticky.appendChild(span);
   stickies.appendChild(sticky);
 }
-
-//testing for git
-// second line for testing git
