@@ -16,7 +16,7 @@ window.onload = function () {
   deleteButton.addEventListener("click", (deleteEvent) => {
     stickyPad.innerHTML = "";
   });
-};
+}; //test
 function processData(object) {
   var copyObject = object;
   for (const key in copyObject) {
@@ -44,3 +44,6 @@ function addStickyToPage(stickyObject) {
   sticky.appendChild(span);
   stickies.appendChild(sticky);
 }
+
+//testing for git
+// second line for testing git
