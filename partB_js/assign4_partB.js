@@ -44,3 +44,5 @@ function addStickyToPage(stickyObject) {
   sticky.appendChild(span);
   stickies.appendChild(sticky);
 }
+
+// added this line to add changes to the main branch
